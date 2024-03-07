@@ -1,95 +1,106 @@
 {
-  "basics": {
-    "name": "Jordan Garrison",
-    "label": "Software Engineering Student | Applied Research Laboratory at University of Hawaii",
-    "picture": "https://github.com/jordangarrison1.png",
-    "email": "jrg2@hawaii.edu",
-    "website": "https://jordangarrison1.github.io",
-    "summary": "I am Computer Science student and Student Researcher at University of Hawaii Applied Research Laboratory.",
-    "location": { "city": "Honolulu", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "jordangarrison1", "url": "http://github.com/jordangarrison1" },
-      { "network": "linkedin", "username": "Jordan Garrison", "url": "http://linkedin.com/in/jgarrison39" }
-    ]
-  },
-  "interests": [
-    { "name": "Underwater Robotics" },
-    { "name": "Defense and Space" },
-    { "name": "Blockchain Technology" },
-    { "name": "Humanitarian Aid" },
-    { "name": "Conservation Technology" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "SolidWorks Computer Aided Design Software", "IntelliJ IDEA", "Anaconda" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawai'i at Manoa",
-      "degree": "B.S. Computer Science",
-      "startDate": "Spring, 2022",
-      "endDate": "Fall, 2026",
-    }
-  ],
-  "work": [
-    {
-      "company": "Applied Research Laboratory at University of Hawai'i",
-      "position": "Student Software Engineer",
-      "website": "https://arl.hawaii.edu/",
-      "startDate": "January, 2024",
-      "endDate": "Present",
-      "summary": "Researcher and Engineering Assistant",
-      "highlights": [
-        "Exposure to a variety of engineering and research projects ranging from genetically engineered coral research to underwater robotics",
-        "Experience working with CAD: SolidWorks, Data Science algorithms and robotics/drone coding applications"
-      ]
-    },
-    {
-      "company": "SpaceX",
-      "position": "Dragon Spacecraft Technician",
-      "website": "https://www.spacex.com/",
-      "startDate": "January 2021",
-      "endDate": "December 2021",
-      "summary": "Integration Technician for all structures, avionics and propulsion systems on the Dragon 2 Orbital Class Vehicle",
-      "highlights": [
-        "Working in a direct feedback loop integration and manufaturing engineers on hardware troubleshooting and build specifications",
-        "Assisted with Dragon launch pad operations in Cape Canaveral, FL"
-      ]
-    },
-    {
-      "company": "U.S. Navy",
-      "position": "Explosive Ordnance Disposal",
-      "website": "https://www.navy.com/careers-benefits/careers/special-operations/explosive-ordnance-disposal-technician",
-      "startDate": "January 2013",
-      "endDate": "January 2021",
-      "summary": "U.S. Navy Special Operations Bomb Squad",
-      "highlights": [
-        "See LinkedIn or contact for more details"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Global Surgical Medical Support Group",
-      "website": "https://www.gsmsg.org/what-we-do#new-page-4",
-      "position": "Special Operations Veteran Medic Volunteer",
-      "startDate": "July, 2022",
-      "endDate": "August, 2022",
-      "summary": "Volunteer Medic Training Team over university summer break",
-      "highlights": [
-        "Ukraine Conflict Humanitarian Aid: Provided training and medical assistance in Kyiv, Ukraine"
-      ]
-    },
-    {
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
-}
+	"basics": {
+		"name": "Jordan Garrison",
+		"label": "Software Engineering Student | Applied Research Laboratory at University of Hawaii",
+		"picture": "https://github.com/jordangarrison1.png",
+		"email": "jrg2@hawaii.edu",
+		"website": "https://jordangarrison1.github.io",
+		"summary": "I am Computer Science student and Student Researcher at University of Hawaii Applied Research Laboratory.",
+		"location": {
+		"city": "Honolulu",
+		"region": "Hawaii"
+		},
+		"profiles": [{
+			"network": "github", "username": "jordangarrison1", "url": "http://github.com/jordangarrison1"
+			},
+			{
+				"network": "linkedin", "username": "Jordan Garrison", "url": "http://linkedin.com/in/jgarrison39"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Underwater Robotics"
+		},
+		{
+			"name": "Defense and Space"
+		},
+		{
+			"name": "Blockchain Technology"
+		},
+		{
+			"name": "Humanitarian Aid"
+		},
+		{
+			"name": "Conservation Technology"
+		}
+	],
+	"skills": [{
+			"name": "Languages and Frameworks",
+			"keywords": ["C", "C++", "Java", "Javascript", "Python"]
+		},
+		{
+			"name": "Toolsets/OS",
+			"keywords": ["SolidWorks Computer Aided Design Software", "IntelliJ IDEA", "Anaconda", "MacOS" ]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawai'i at Manoa",
+		"degree": "B.S. Computer Science",
+		"startDate": "Spring, 2022",
+		"endDate": "Fall, 2026"
+	}],
+	"work": [{
+			"company": "Applied Research Laboratory at University of Hawai'i",
+			"position": "Student Software Engineer",
+			"website": "https://arl.hawaii.edu/",
+			"startDate": "January, 2024",
+			"endDate": "Present",
+			"summary": "Researcher and Engineering Assistant",
+			"highlights": [
+				"Exposure to a variety of engineering and research projects ranging from genetically engineered coral research to underwater robotics",
+				"Experience working with CAD: SolidWorks, Data Science algorithms and robotics/drone coding applications"
+			]
+		},
+		{
+			"company": "SpaceX",
+			"position": "Dragon Spacecraft Technician",
+			"website": "https://www.spacex.com/",
+			"startDate": "January 2021",
+			"endDate": "December 2021",
+			"summary": "Integration Technician for all structures, avionics and propulsion systems on the Dragon 2 Orbital Class Vehicle",
+			"highlights": [
+				"Working in a direct feedback loop integration and manufaturing engineers on hardware troubleshooting and build specifications",
+				"Assisted with Dragon launch pad operations in Cape Canaveral, FL"
+			]
+		},
+		{
+			"company": "U.S. Navy",
+			"position": "Explosive Ordnance Disposal",
+			"website": "https://www.navy.com/careers-benefits/careers/special-operations/explosive-ordnance-disposal-technician",
+			"startDate": "January 2013",
+			"endDate": "January 2021",
+			"summary": "U.S. Navy Special Operations Bomb Squad",
+			"highlights": [
+				"See LinkedIn or contact for more details"
+			]
+		}
+	],
+	"volunteer": [{
+				"organization": "Global Surgical Medical Support Group",
+				"website": "https://www.gsmsg.org/what-we-do#new-page-4",
+				"position": "Special Operations Veteran Medic Volunteer",
+				"startDate": "July, 2022",
+				"endDate": "August, 2022",
+				"summary": "Volunteer Medic Training Team over university summer break",
+				"highlights": [
+					"Ukraine Conflict Humanitarian Aid: Provided training and medical assistance in Kyiv, Ukraine"
+				]
+			},
+			{
+				"references": [
+                  {
+					"name": "Available upon request"
+				}
+                ]
+            }]
+	}
