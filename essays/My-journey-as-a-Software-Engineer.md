@@ -10,7 +10,7 @@ labels:
 ---
 
 
-*The following is a Technical Essay Assignment for ICS 314 and a reflection of my programming journey thus far*
+*The following is a Technical Essay Assignment for ICS 314 and a reflection of my programming journey thus far: *
 
 ## My introduction to Computer Science
 
