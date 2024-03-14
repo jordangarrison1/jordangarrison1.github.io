@@ -18,16 +18,17 @@ My software engineering journey began when I was an enlisted member of the U.S. 
 During our training, we learned to identify, counter and defuse IEDs (Improvised Explosive Devices) or more simply, homemade bombs - like the kind the infamous ‘unabomber’, Ted Kaczynski used in his 20 year long domestic terrorism campaign until his arrest in 1996, *if that rings a bell*. 
 The Unabomber engineered relatively primitive IEDs which used only basic electronics and mechanical components as fuzing to set off his improvised bombs. 
 In more recent times, IED makers have used far more sophisticated designs that incorporate microprocessors that can be programmed to take a variety of inputs as fuze mechanisms - these designs can be complex and use virtually any inputs of data in their design; from simple garage door sensors to GPS locations to cell phone RF signals.
-In my Advanced IED training in the Navy, we were taught how to program Arduino single-board microcontroller kits to build mock IEDs; a learning experience that would give us exposure to the kinds of devices we may potentially encounter during our deployments overseas - this was my first experience ever programming. 
+
+During my Advanced IED training in the Navy, we were taught how to program Arduino single-board microcontroller kits to build mock IEDs; a learning experience that would give us exposure to the kinds of devices we may potentially encounter during our deployments overseas - this was my first experience ever programming. 
 Although the Ardunino programming IDE only required C++ voltage inputs and outputs, it opened my eyes to the limitless nature of computation. 
 Although I had used computers, played video games and owned a cell phone for much of my life, the way computers worked was kind of a blackbox to me until that Advanced IED course where we learned to convert electronic signals to binary code that was then processed into readable instructions for the microprocessor to follow. 
 That was a pivotal moment for my understanding of how the world works and sparked an interest of how virtually anything humans can imagine could be programmed into code for machines to follow. 
 
 Years later, as I was preparing to exit my eight years of military service and doing some soul-searching for *what next?*, I was offered a job at SpaceX as a Technician on the Dragon Spacecraft. 
 It seemed like a dream opportunity for young veteran and caused me to defer my plans of college enrollment. 
-After a year at SpaceX, I was unsatisfied working as a ‘technician’ - while it felt incredible to play a role in the first non-government funded, commercial human space flights in history, working as a technician was mainly following engineered instructions for vehicle integration. 
+After a year at SpaceX, I was unsatisfied working as a technician - while it felt incredible to play a role in the first non-government funded commercial human space flights in history, working as a technician mainly involved following instructions from our engineers for vehicle/component integration. 
 It was mechanical labor and did not really involve any creative expression - it felt limiting. 
-I wanted a job that allowed me to feel that same creative wonder that I felt when programming that first Arduino microcontroller - so, back to school I went.
+I wanted a career that allowed me to feel that same creative wonder that I felt when programming an Arduino microcontroller - so, back to school I went.
 
 ## Programming in University
 
@@ -51,5 +52,5 @@ Ironically enough, as a Special Operations veteran, I’m really good at CrossFi
 
 I have come to accept that my foundation in JavaScript is not strong enough to keep pace with the class and have also accepted it’s not a terrible idea to take this course twice to reinforce my programming foundation (paying $1200 is going to suck but hey, gotta spend money to make money I guess). 
 I am still learning so much though, even though I am slowing down to my own pace. 
-I’m extremely interested in this course because unlike any of the previous ICS courses, these lessons relate to real-world applications like building websites - which I really don’t want to rush through, because its something I would like to be very proficient at someday. 
-So moving forward, just as I did through Special Operations training, SpaceX, the trial & error learning of real-estate/investing, learning to surf/foil/snowboard, and just about everything else I have done in my life that I’m proud of - I will pay my dues and endure the growing pains. Thank you, ICS 314.
+I’m extremely invested in this course because unlike any of the previous ICS courses, these lessons relate to real-world applications like building websites - which I really don’t want to rush through, because its something I would like to be very proficient at someday. 
+So moving forward, just as I did through Special Operations training, SpaceX, the trial & error learning of real-estate/investing, learning to surf/foil/snowboard and just about everything else I have done in my life that I’m proud of - I will pay my dues and endure the growing pains. Thank you, ICS 314, for forcing me to become a better software engineer.
