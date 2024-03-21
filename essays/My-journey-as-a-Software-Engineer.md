@@ -8,7 +8,9 @@ published: true
 labels:
   - Engineering 
 ---
-
+<img width="400px" 
+     class="rounded float-start pe-4" 
+     src="https://i.ytimg.com/vi/tPfDhwuj7Qs/maxresdefault.jpg" >
 
 *The following is a Technical Essay Assignment for ICS 314 and a reflection of my programming journey thus far:*
 
