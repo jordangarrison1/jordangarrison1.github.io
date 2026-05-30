@@ -16,7 +16,7 @@ labels:
 
 ## My introduction to Computer Science
 
-My software engineering journey began when I was an enlisted member of the U.S. Navy EOD (Explosive Ordnance Dispostal) Team, a.k.a. Navy Bomb Squad, or Underwater Demolition Team. 
+My software engineering journey began when I was an enlisted member of the U.S. Navy EOD (Explosive Ordnance Disposal) Team, a.k.a. Navy Bomb Squad, or Underwater Demolition Team. 
 During our training, we learned to identify, counter and defuse IEDs (Improvised Explosive Devices) or more simply, homemade bombs - like the kind the infamous ‘unabomber’, Ted Kaczynski used in his 20 year long domestic terrorism campaign until his arrest in 1996, *if that rings a bell*. 
 The Unabomber engineered relatively primitive IEDs which used only basic electronics and mechanical components as fuzing to set off his improvised bombs. 
 In more recent times, IED makers have used far more sophisticated designs that incorporate microprocessors that can be programmed to take a variety of inputs as fuze mechanisms - these designs can be complex and use virtually any inputs of data in their design; from simple garage door sensors to GPS locations to cell phone RF signals.
