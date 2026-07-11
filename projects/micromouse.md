@@ -4,6 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Micromouse"
 date: 2024
+era: academic
 published: true
 labels:
   - Robotics
